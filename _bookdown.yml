@@ -1,4 +1,4 @@
-book_filename: "rstudio4edu-book"
+book_filename: "CQNUBioinformatics"
 repo: "https://github.com/libcell/"
 #output_dir: "docs"
 delete_merged_file: true
@@ -16,8 +16,8 @@ rmd_files: [
   "teach-sequence.Rmd", 
   "teach-evolution.Rmd", 
   "teach-expression.Rmd", 
-  "teach-annotation.Rmd", 
-  "teach-enrichment.Rmd", 
+  "teach-anno_enrich.Rmd", 
+  "teach-programming.Rmd", 
             
   "appendix.Rmd"
   ]

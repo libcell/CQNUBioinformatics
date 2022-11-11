@@ -3,14 +3,14 @@ title: "Bioinformatics"
 subtitle: "A Online Course for Learning Bioinformatics in Chongqing Normal Univeristy"
 author: 
 - Bo Li, Ph. D^[Bo's Homepage, https://libcell.github.io/]
-date: "2022-10-24"
+date: "2022-11-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 cover-image: images/logo/logo-bioinformatics.png
-github-repo: "rstudio4edu/rstudio4edu-book"
+github-repo: "libcell/CQNUBioinformatics"
 description: "A work-in-progress"
 favicon: "images/favicon/favicon.ico"
 always_allow_html: yes

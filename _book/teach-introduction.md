@@ -80,36 +80,7 @@ Recommended: don't install R via Homebrew. If you insist on using Homebrew, do *
 
 <img src="images/Chapter-01/幻灯片32.jpg" width="100%" style="display: block; margin: auto;" />
 
-
-### GitHub for you {#gh-for-you}
-
-Why educators should use version control, high-level thoughts
-
-### GitHub for them {#gh-for-them}
-
-Whether or not you need your students to learn GitHub is a very personal decision. While we strongly believe that educators should use GitHub behind the scenes, whether you should *also* put GitHub center stage for your learners requires some additional considerations, like:
-
-+ Do your learners need to learn and use GitHub? Are they going to be served well if you choose to include it?
-
-+ Do you have the time and resources to teach GitHub? Sometimes this decision can come down to how long your learners will be with you.
-
-Resources for integrating GitHub for learners; not our primary focus here, outsource to:
-
-Make sure to mention Mine's ghclass package
-
-Happy Git with R for yourself and your students
-
-GitHub Classroom is also a good option to consider
-
-https://happygitwithr.com/classroom-overview.html
-
-
-https://r4ds.had.co.nz/workflow-projects.html
-
-https://docs.google.com/document/d/132hdA_2U8-thkF3yd_xUUsBFviQGOL-_zpaEZRSwjro/edit?usp=sharing
-
 ## Applications of Bioinformatics
-
 
 <img src="images/Chapter-01/幻灯片33.jpg" width="100%" style="display: block; margin: auto;" />
 

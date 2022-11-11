@@ -4,13 +4,367 @@
 source("common.R")
 ```
 
+<center>![](images/Chapter-06/幻灯片1.jpg){width=70%}</center>
+
+In this chapter, we mainly introduce the **sequence analysis** of biological molecules (such as DNA or protein), which includes promoter identification, gene prediction, codon usage analysis, trans-membrane analysis, and so on. 
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片2.jpg")
+```
+
 ## Introduction
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片3.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片4.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片5.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片6.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片7.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片8.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片9.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片10.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片11.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片12.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片13.jpg")
+```
 
 ## Measurement platforms
 
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片14.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片15.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片16.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片17.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片18.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片19.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片20.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片21.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片22.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片23.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片24.jpg")
+```
+
 ## DNA microarray
 
-## Data analysis
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片25.jpg")
+```
 
-## Reseach case
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片26.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片27.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片28.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片29.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片30.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片31.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片32.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片33.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片34.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片35.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片36.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片37.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片38.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片39.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片40.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片41.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片42.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片43.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片44.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片45.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片46.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片47.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片48.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片49.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片50.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片51.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片52.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片53.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片54.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片55.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片56.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片57.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片58.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片59.jpg")
+```
+
+## DEG analysis
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片60.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片61.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片62.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片63.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片64.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片65.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片66.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片67.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片68.jpg")
+```
+
+## Clustering analysis
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片69.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片70.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片71.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片72.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片73.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片74.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片75.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片76.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片77.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片78.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片79.jpg")
+```
+
+## Classification analysis
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片80.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片81.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片82.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片83.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片84.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片85.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片86.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片87.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-06/幻灯片88.jpg")
+```
 
