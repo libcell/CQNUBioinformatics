@@ -1,0 +1,364 @@
+# (PART\*) Main chapters {-}
+
+```{r, include = FALSE}
+source("common.R")
+```
+
+# Introduction
+
+<center>![](images/Chapter-01/幻灯片1.jpg){width=70%}</center>
+
+In this chapter, we mainly introduce the **past, present and future** of bioinformatics from various aspects, as well as its application areas and current challenges. 
+
+If you want to learn more about the brief history of Bioinformatics, please further read this article published in Briefings in Bioinformatics, [*A brief history of bioinformatics*](https://academic.oup.com/bib/article/20/6/1981/5066445). 
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片2.jpg")
+```
+
+## On data in our life {#capital-r}
+
+Recommended: don't install R via Homebrew. If you insist on using Homebrew, do *not* use 
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片3.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片4.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片5.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片6.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片7.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片8.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片9.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片10.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片11.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片12.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片13.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片14.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片15.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片16.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片17.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片18.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片19.jpg")
+```
+
+## What is Bioinformatics {#rstudio}
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片20.jpg")
+```
+
+## History of Bioinformatics {#github}
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片21.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片22.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片23.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片24.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片25.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片26.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片27.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片28.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片29.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片30.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片31.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片32.jpg")
+```
+
+
+### GitHub for you {#gh-for-you}
+
+Why educators should use version control, high-level thoughts
+
+### GitHub for them {#gh-for-them}
+
+Whether or not you need your students to learn GitHub is a very personal decision. While we strongly believe that educators should use GitHub behind the scenes, whether you should *also* put GitHub center stage for your learners requires some additional considerations, like:
+
++ Do your learners need to learn and use GitHub? Are they going to be served well if you choose to include it?
+
++ Do you have the time and resources to teach GitHub? Sometimes this decision can come down to how long your learners will be with you.
+
+Resources for integrating GitHub for learners; not our primary focus here, outsource to:
+
+Make sure to mention Mine's ghclass package
+
+Happy Git with R for yourself and your students
+
+GitHub Classroom is also a good option to consider
+
+https://happygitwithr.com/classroom-overview.html
+
+
+https://r4ds.had.co.nz/workflow-projects.html
+
+https://docs.google.com/document/d/132hdA_2U8-thkF3yd_xUUsBFviQGOL-_zpaEZRSwjro/edit?usp=sharing
+
+## Applications of Bioinformatics
+
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片33.jpg")
+```
+
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片34.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片35.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片36.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片37.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片38.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片39.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片40.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片41.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片42.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片43.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片44.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片45.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片46.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片47.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片48.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片49.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片50.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片51.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片52.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片53.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片54.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片55.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片56.jpg")
+```
+
+Options: Slack (recommended for longer term teaching, like courses), gitter (recommended for workshops)
+
+## Bioinformatics in big data era
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片57.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片58.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片59.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片60.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片61.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片62.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片63.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片64.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片65.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片66.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片67.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片68.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片69.jpg")
+```
+
+## Summary and pespective
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片70.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片71.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片72.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片73.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片74.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片75.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片76.jpg")
+```
+
+```{r, out.width = "100%", fig.align='center', echo= FALSE}
+knitr::include_graphics("images/Chapter-01/幻灯片77.jpg")
+```
+

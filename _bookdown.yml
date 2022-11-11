@@ -1,0 +1,23 @@
+book_filename: "rstudio4edu-book"
+repo: "https://github.com/libcell/"
+#output_dir: "docs"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: 'Chapter '
+new_session: yes # Each chapter is knitted as its own Rmd file
+#rmd_subdir: ["", "",""]
+rmd_files: [
+  "index.Rmd", 
+            
+  "teach-introduction.Rmd", 
+  "teach-database.Rmd",  
+  "teach-alignment.Rmd",    
+  "teach-sequence.Rmd", 
+  "teach-evolution.Rmd", 
+  "teach-expression.Rmd", 
+  "teach-annotation.Rmd", 
+  "teach-enrichment.Rmd", 
+            
+  "appendix.Rmd"
+  ]

@@ -1,0 +1,36 @@
+Package: placeholder
+Type: Book
+Title: Does not matter.
+Version: 0.0.1
+URL: https://github.com/rstudio4edu/rstudio4edu-book # fill in USER and REPO
+Imports: 
+    dplyr,
+    ggplot2,
+    kableExtra,
+    bookdown,
+    gapminder,
+    tidyverse,
+    roxygen2 (>= 6.1.1.9000),
+    usethis,
+    rmarkdown,
+    DT,
+    klippy,
+    devtools, 
+    emo,
+    here,
+    printr, 
+    leaflet, 
+    plotly,
+    ymlthis,
+    fs,
+    htmltools
+Remotes:
+    r-lib/fs,
+    r-lib/usethis,
+    r-lib/devtools,
+    r-lib/ymlthis,
+    klutometis/roxygen,
+    RLesur/klippy,
+    hadley/emo,
+    rstudio/htmltools
+    

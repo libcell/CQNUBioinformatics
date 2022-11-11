@@ -1,0 +1,13 @@
+# (APPENDIX) Appendix {-}
+
+```{r, include = FALSE}
+source("common.R")
+```
+
+# R programming
+
+# Python programming
+
+# Rstudio course
+
+# Docker course
