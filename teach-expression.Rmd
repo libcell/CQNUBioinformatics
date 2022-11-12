@@ -30,6 +30,15 @@ knitr::include_graphics("images/Chapter-06/幻灯片5.jpg")
 knitr::include_graphics("images/Chapter-06/幻灯片6.jpg")
 ```
 
+- RNA-sequencing technology
+
+<iframe src="https://www.bilibili.com/video/BV1DP4y127a9/?spm_id_from=333.999.0.0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="472px"> </iframe>
+
+- DNA Microarray technology
+
+<iframe src="https://www.bilibili.com/video/BV1WA411h7F8/?spm_id_from=333.337.search-card.all.click&vd_source=0a507793fe0feba9d59b2caecb7c95d9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="472px"> </iframe>
+
+
 ```{r, out.width = "100%", fig.align='center', echo= FALSE}
 knitr::include_graphics("images/Chapter-06/幻灯片7.jpg")
 ```

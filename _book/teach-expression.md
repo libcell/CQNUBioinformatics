@@ -192,3 +192,8 @@ In this chapter, we mainly introduce the **sequence analysis** of biological mol
 
 <img src="images/Chapter-06/幻灯片88.jpg" width="100%" style="display: block; margin: auto;" />
 
+<video width="320" height="240" controls>
+  <source src="cqnufiles/RNA-seq.mp4" type="video/mp4">
+</video>
+
+<iframe src="https://player.bilibili.com/player.html?aid=720018804&bvid=BV1qQ4y1Y7V2&cid=395043780&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="472px"> </iframe>

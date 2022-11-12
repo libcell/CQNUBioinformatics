@@ -8,19 +8,6 @@ source("common.R")
 
 R is a popular programming language in biomedicine field. 
 
-```{r}
-#Color Format
-colFmt = function(x,color){
-  outputFormat = knitr::opts_knit$get("rmarkdown.pandoc.to")
-  if(outputFormat == 'latex')
-    paste("\\textcolor{",color,"}{",x,"}",sep="")
-  else if(outputFormat == 'html')
-    paste("<font color='",color,"'>",x,"</font>",sep="")
-  else
-    x
-}
-```
-
 ### <font color="DD0000"> The coursera on R programming </font> 
 <center>![](images/appendix/Coursera_R.png){width=70%}</center>
 - Lecturer: *Dr*. Roger D. Peng, Johns Hopkins University
@@ -45,17 +32,10 @@ colFmt = function(x,color){
 
 Python is a popular programming language. 
 
-```{python}
-import unittest
-
-def fun(x):
-    return x + 1
-
-class MyTest(unittest.TestCase):
-    def test(self):
-        self.assertEqual(fun(3), 4)
-```
-
+### <font color="DD0000"> Data Analysis with R </font>
+<center>![](images/appendix/Course_Python1.png){width=70%}</center>
+- Lecturer: *Dr*. XX, Duke University
+- URL: [Python语言最佳实践](https://learnku.com/docs/python-guide/2018)
 
 `r colFmt("MY RED TEXT",'red')`
 
