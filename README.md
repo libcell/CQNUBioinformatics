@@ -10,6 +10,8 @@ This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
 **Course online**: please click [重庆师范大学生物信息学在线课程](http://www.ciblab.net/bioinformatics/). 
 
+**Practical operation**: please click [重庆师范大学生物信息学在线编程平台](http://www.ciblab.net:8787). 
+
 **Teaching Period Plan**: there are 36 class-hours for this curriculum, and the detailed information on time allocation is as follows: 
 
 | No. | Content | Class-time on theory | Class-time on practice |
