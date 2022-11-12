@@ -9,6 +9,7 @@
 This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
 **Course online**: please click [重庆师范大学生物信息学在线课程](http://www.ciblab.net/bioinformatics/). 
+
 If you have any questions, please do not hesitate to contact me (libcell@cqnu.edu.cn). 
 
 **Note**: there are 36 class-hours for this curriculum, and the detailed information on time allocation is as follows: 
