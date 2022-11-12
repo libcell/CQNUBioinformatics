@@ -23,4 +23,6 @@ This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 | 7 | Chapter-7. Gene Set Annotation & Enrichment | 2 | 2 |
 | 8 | Chapter-8. Programming Skills in Bioinformatics | 1 | 3 |
 
-**Reminder**: If you have any questions, please do not hesitate to contact me (libcell@cqnu.edu.cn). 
+**Reminder**: 
+- Regarding the questions in the course, you can leave a message on the [Github Issues](https://github.com/libcell/CQNUBioinformatics/issues) to interact with everyone or wait for the teacher to reply. 
+- Alternatively, if you have any questions, please do not hesitate to contact me (libcell@cqnu.edu.cn).
