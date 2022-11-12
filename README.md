@@ -8,9 +8,10 @@
 
 This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
-**Course online**: if you want to playback of classroom lecture videos, please click [数据科学: R入门与进阶](http://course.cloudwe.tech/node/106)
+**Course online**: please click [重庆师范大学生物信息学在线课程](http://www.ciblab.net/bioinformatics/). 
+If you have any questions, please do not hesitate to contact me (libcell@cqnu.edu.cn). 
 
-**Note**: there are 48 class-hours for this curriculum, and the detailed information on time allocation is as follows: 
+**Note**: there are 36 class-hours for this curriculum, and the detailed information on time allocation is as follows: 
 
 | No. | Content | Class-time on theory | Class-time on practice |
 | :----: | :---- | :----: | :----: |
