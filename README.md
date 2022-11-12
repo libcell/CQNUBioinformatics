@@ -6,7 +6,7 @@
 
 <img src = "image/course-logo.jpg" width = "800" align = "middle"> 
 
-This is the ***Cover Page*** of this course (drawn by *Dr*. Liu)
+This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
 **Course online**: if you want to playback of classroom lecture videos, please click [数据科学: R入门与进阶](http://course.cloudwe.tech/node/106)
 
