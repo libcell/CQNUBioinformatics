@@ -14,13 +14,13 @@ This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
 | No. | Content | Class-time on theory | Class-time on practice |
 | :----: | :---- | :----: | :----: |
-| 1 | Chapter-1. Introduction on Bioinformatics | 1 | 1 |
-| 2 | Chapter-2. Database Resources in Bioinformatics | 2 | 4 |
-| 3 | Chapter-3. Biological Sequence Alignment | 4 | 6 |
-| 4 | Chapter-4. Biological Sequence Analysis | 3 | 3 |
-| 5 | Chapter-5. Molecular Evolution Analysis | 4 | 6 |
-| 6 | Chapter-6. Gene Expression Profiling | 2 | 6 |
-| 7 | Chapter-7. Gene Set Annotation & Enrichment | 2 | 4 |
-| 8 | Chapter-8. R Programming in Bioinformatics | 2 | 4 |
+| 1 | Chapter-1. Introduction on Bioinformatics | 2 | 0 |
+| 2 | Chapter-2. Database Resources in Bioinformatics | 2 | 2 |
+| 3 | Chapter-3. Biological Sequence Alignment | 2 | 2 |
+| 4 | Chapter-4. Biological Sequence Analysis | 2 | 2 |
+| 5 | Chapter-5. Molecular Evolution Analysis | 2 | 2 |
+| 6 | Chapter-6. Gene Expression Profiling | 3 | 3 |
+| 7 | Chapter-7. Gene Set Annotation & Enrichment | 2 | 2 |
+| 8 | Chapter-8. Programming Skills in Bioinformatics | 1 | 3 |
 
 **Reminder**: If you have any questions, please do not hesitate to contact me (libcell@cqnu.edu.cn). 
