@@ -4,7 +4,7 @@
 
 - Bo Li, *et al.*
 
-<img src = "image/course-logo.jpg" width = "800" align = "middle"> 
+<img src = "images/course-logo.jpg" width = "800" align = "middle"> 
 
 This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
