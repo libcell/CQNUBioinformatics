@@ -51,6 +51,10 @@ abc-of-r-language
 application-cases-of-r
 summary
 r-programming
+the-coursera-on-r-programming
+learn-r-on-codecademy
+data-science-r-basics
+data-analysis-with-r
 python-programming
 rstudio-course
 docker-course
