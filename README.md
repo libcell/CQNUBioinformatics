@@ -1,4 +1,4 @@
-# CQNUBioinformatics - The Bioinformatics Course in CQNU
+# CQNUBioinformatics - Bioinformatics Course in CQNU
 
 **CQNUBioinformatics**: Learning Bioinformatics Curriculum under the Guidance of *Dr*. Li
 
