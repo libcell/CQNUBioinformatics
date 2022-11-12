@@ -1,0 +1,22 @@
+# <font style="line-height:2.0; color:#00009C">**DOWNLOAD**</font> {-}
+
+
+
+## Download chapters {-}
+
+- All slides in *.ppt format as well as otter materials could be downloaded here. 
+
+| No. | Content | Document | Other Materials |
+| :----: | :---- | :----: | :----: |
+| 1 | Chapter-1. Introduction on Bioinformatics | [pdf](http://www.baidu.com) | rar |
+| 2 | Chapter-2. Database Resources in Bioinformatics | pdf | rar |
+| 3 | Chapter-3. Biological Sequence Alignment | pdf | rar |
+| 4 | Chapter-4. Biological Sequence Analysis | pdf | rar |
+| 5 | Chapter-5. Molecular Evolution Analysis | pdf | rar |
+| 6 | Chapter-6. Gene Expression Profiling | pdf | rar |
+| 7 | Chapter-7. Gene Set Annotation & Enrichment | rar | rar |
+| 8 | Chapter-8. Programming Skills in Bioinformatics | pdf | rar |
+
+## Download R code {-}
+
+## Download housework {-}

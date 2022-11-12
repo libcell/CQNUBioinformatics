@@ -29,8 +29,6 @@ knitr::opts_chunk$set(
 - Create facetted plots with `ggplot2`
 
 
-
-
 # Inspiration + data
 
 We'll use data from the Museum of Modern Art (MoMA)

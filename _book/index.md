@@ -3,7 +3,7 @@ title: "Bioinformatics"
 subtitle: "A Online Course for Learning Bioinformatics in Chongqing Normal Univeristy"
 author: 
 - Bo Li, Ph. D^[Bo's Homepage, https://libcell.github.io/]
-date: "2022-11-12"
+date: "2022-11-13"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -14,7 +14,7 @@ github-repo: "libcell/CQNUBioinformatics"
 description: "A work-in-progress"
 favicon: "images/favicon/favicon.ico"
 always_allow_html: yes
-url: 'https\://rstudio4edu.github.io/rstudio4edu-book/'
+url: 'http://www.ciblab.net/bioinformatics/'
 ---
 
 # Preface {-}
@@ -101,9 +101,6 @@ For studying biological knowledge, we encourage members to communicate with each
 I am Bo Li, an assoc. Professor from College of Life Sciences^[College of Life Sciences of CQNU, https://smkx.cqnu.edu.cn/], Chongqing Normal University^[CQNU, https://www.cqnu.edu.cn/], P. R. China. 
 
 <img src="images/Chapter-00/幻灯片24.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-00/幻灯片25.jpg" width="100%" style="display: block; margin: auto;" />
-
 
 ## What can you learn? {-}
 

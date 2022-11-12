@@ -14,7 +14,7 @@ github-repo: "libcell/CQNUBioinformatics"
 description: "A work-in-progress"
 favicon: "images/favicon/favicon.ico"
 always_allow_html: yes
-url: 'https\://rstudio4edu.github.io/rstudio4edu-book/'
+url: 'http://www.ciblab.net/bioinformatics/'
 ---
 
 # Preface {-}
@@ -147,11 +147,6 @@ I am Bo Li, an assoc. Professor from College of Life Sciences^[College of Life S
 ```{r, out.width = "100%", fig.align='center', echo= FALSE}
 knitr::include_graphics("images/Chapter-00/幻灯片24.jpg")
 ```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-00/幻灯片25.jpg")
-```
-
 
 ## What can you learn? {-}
 

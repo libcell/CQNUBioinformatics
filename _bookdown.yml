@@ -19,5 +19,7 @@ rmd_files: [
   "teach-anno_enrich.Rmd", 
   "teach-programming.Rmd", 
             
-  "appendix.Rmd"
+  "appendix.Rmd", 
+  
+  "download.Rmd"
   ]
