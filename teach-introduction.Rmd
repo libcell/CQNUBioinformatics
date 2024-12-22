@@ -81,10 +81,6 @@ knitr::include_graphics("images/Chapter-01/幻灯片17.jpg")
 ```
 
 ```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-01/幻灯片18.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
 knitr::include_graphics("images/Chapter-01/幻灯片19.jpg")
 ```
 
@@ -324,12 +320,3 @@ knitr::include_graphics("images/Chapter-01/幻灯片74.jpg")
 ```{r, out.width = "100%", fig.align='center', echo= FALSE}
 knitr::include_graphics("images/Chapter-01/幻灯片75.jpg")
 ```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-01/幻灯片76.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-01/幻灯片77.jpg")
-```
-

@@ -245,34 +245,6 @@ knitr::include_graphics("images/Chapter-02/幻灯片60.jpg")
 ```
 
 ```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片61.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片62.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片63.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片64.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片65.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片66.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片67.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
 knitr::include_graphics("images/Chapter-02/幻灯片68.jpg")
 ```
 
@@ -301,23 +273,11 @@ knitr::include_graphics("images/Chapter-02/幻灯片74.jpg")
 ```
 
 ```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片75.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片76.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
 knitr::include_graphics("images/Chapter-02/幻灯片77.jpg")
 ```
 
 ```{r, out.width = "100%", fig.align='center', echo= FALSE}
 knitr::include_graphics("images/Chapter-02/幻灯片78.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-02/幻灯片79.jpg")
 ```
 
 ## EMBL data resources

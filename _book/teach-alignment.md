@@ -313,12 +313,6 @@ In this chapter, we mainly introduce the **sequence alignment** of biological mo
 
 <img src="images/Chapter-03/幻灯片147.jpg" width="100%" style="display: block; margin: auto;" />
 
-<img src="images/Chapter-03/幻灯片148.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-03/幻灯片149.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-03/幻灯片150.jpg" width="100%" style="display: block; margin: auto;" />
-
 ## Some cases
 
 ## Alignment in R

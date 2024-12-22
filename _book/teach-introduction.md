@@ -46,8 +46,6 @@ Recommended: don't install R via Homebrew. If you insist on using Homebrew, do *
 
 <img src="images/Chapter-01/幻灯片17.jpg" width="100%" style="display: block; margin: auto;" />
 
-<img src="images/Chapter-01/幻灯片18.jpg" width="100%" style="display: block; margin: auto;" />
-
 <img src="images/Chapter-01/幻灯片19.jpg" width="100%" style="display: block; margin: auto;" />
 
 ## What is Bioinformatics {#rstudio}
@@ -174,8 +172,3 @@ Options: Slack (recommended for longer term teaching, like courses), gitter (rec
 <img src="images/Chapter-01/幻灯片74.jpg" width="100%" style="display: block; margin: auto;" />
 
 <img src="images/Chapter-01/幻灯片75.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-01/幻灯片76.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-01/幻灯片77.jpg" width="100%" style="display: block; margin: auto;" />
-

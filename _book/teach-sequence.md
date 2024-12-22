@@ -202,7 +202,5 @@ In this chapter, we mainly introduce the **sequence analysis** of biological mol
 
 <img src="images/Chapter-04/幻灯片97.jpg" width="100%" style="display: block; margin: auto;" />
 
-<img src="images/Chapter-04/幻灯片98.jpg" width="100%" style="display: block; margin: auto;" />
-
 ## Others
 

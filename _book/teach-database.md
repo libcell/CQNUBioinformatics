@@ -126,20 +126,6 @@ In this chapter, we mainly introduce the **several important databases**  storin
 
 <img src="images/Chapter-02/幻灯片60.jpg" width="100%" style="display: block; margin: auto;" />
 
-<img src="images/Chapter-02/幻灯片61.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-02/幻灯片62.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-02/幻灯片63.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-02/幻灯片64.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-02/幻灯片65.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-02/幻灯片66.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-02/幻灯片67.jpg" width="100%" style="display: block; margin: auto;" />
-
 <img src="images/Chapter-02/幻灯片68.jpg" width="100%" style="display: block; margin: auto;" />
 
 <img src="images/Chapter-02/幻灯片69.jpg" width="100%" style="display: block; margin: auto;" />
@@ -154,15 +140,9 @@ In this chapter, we mainly introduce the **several important databases**  storin
 
 <img src="images/Chapter-02/幻灯片74.jpg" width="100%" style="display: block; margin: auto;" />
 
-<img src="images/Chapter-02/幻灯片75.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-02/幻灯片76.jpg" width="100%" style="display: block; margin: auto;" />
-
 <img src="images/Chapter-02/幻灯片77.jpg" width="100%" style="display: block; margin: auto;" />
 
 <img src="images/Chapter-02/幻灯片78.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-02/幻灯片79.jpg" width="100%" style="display: block; margin: auto;" />
 
 ## EMBL data resources
 

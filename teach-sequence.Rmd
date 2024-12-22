@@ -392,9 +392,5 @@ knitr::include_graphics("images/Chapter-04/幻灯片96.jpg")
 knitr::include_graphics("images/Chapter-04/幻灯片97.jpg")
 ```
 
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-04/幻灯片98.jpg")
-```
-
 ## Others
 

@@ -1,20 +1,20 @@
 --- 
 title: "Bioinformatics"
-subtitle: "A Online Course for Learning Bioinformatics in Chongqing Normal Univeristy"
+subtitle: "A Online Course for Learning Bioinformatics in Chongqing Univeristy"
 author: 
-- Bo Li, Ph. D^[Bo's Homepage, https://libcell.github.io/]
-date: "2022-11-13"
+- Guizhao Liang, Prof.^[Liang's Homepage, https://gzliang.cqu.edu.cn/]
+date: "2024-10-16"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 cover-image: images/logo/logo-bioinformatics.png
-github-repo: "libcell/CQNUBioinformatics"
+github-repo: "xxxxxx"
 description: "A work-in-progress"
 favicon: "images/favicon/favicon.ico"
 always_allow_html: yes
-url: 'http://www.ciblab.net/bioinformatics/'
+url: 'https://gzliang.cqu.edu.cn/'
 ---
 
 # Preface {-}
@@ -23,7 +23,7 @@ url: 'http://www.ciblab.net/bioinformatics/'
 
 <center>![](images/illos/index-welcome.jpg){width=70%}</center>
 
-Hello, everyone! Welcome to my bioinformatics class. In this semester, I will lead you (👦 👧) to explore the world of bioinformatics together. If you have any questions about this course, please don not hesitate to contact me. My email 📧 address is <libcell@cqnu.edu.cn>.
+Hello, everyone! Welcome to my bioinformatics class. In this semester, I will lead you (👦 👧) to explore the world of bioinformatics together. If you have any questions about this course, please don not hesitate to contact me. My email 📧 address is <gzliang@cqu.edu.cn>.
 
 This course website was inspired by the [Handbook for Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)- a book written by and for educators who teach data science. It is a thoughtful and inspiring resource for all educators, with a focus on the Python ecosystem. We aimed to create a similar resource for educators working with the R and RStudio ecosystem. 
 
@@ -66,12 +66,6 @@ For studying biological knowledge, we encourage members to communicate with each
 
 <img src="images/Chapter-00/幻灯片8.jpg" width="100%" style="display: block; margin: auto;" />
 
-<img src="images/Chapter-00/幻灯片9.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-00/幻灯片10.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-00/幻灯片11.jpg" width="100%" style="display: block; margin: auto;" />
-
 <img src="images/Chapter-00/幻灯片12.jpg" width="100%" style="display: block; margin: auto;" />
 
 <img src="images/Chapter-00/幻灯片13.jpg" width="100%" style="display: block; margin: auto;" />
@@ -82,11 +76,7 @@ For studying biological knowledge, we encourage members to communicate with each
 
 <img src="images/Chapter-00/幻灯片16.jpg" width="100%" style="display: block; margin: auto;" />
 
-<img src="images/Chapter-00/幻灯片17.jpg" width="100%" style="display: block; margin: auto;" />
-
 <img src="images/Chapter-00/幻灯片18.jpg" width="100%" style="display: block; margin: auto;" />
-
-<img src="images/Chapter-00/幻灯片19.jpg" width="100%" style="display: block; margin: auto;" />
 
 <img src="images/Chapter-00/幻灯片20.jpg" width="100%" style="display: block; margin: auto;" />
 
@@ -96,11 +86,6 @@ For studying biological knowledge, we encourage members to communicate with each
 
 <img src="images/Chapter-00/幻灯片23.jpg" width="100%" style="display: block; margin: auto;" />
 
-## About the instructor {-}
-
-I am Bo Li, an assoc. Professor from College of Life Sciences^[College of Life Sciences of CQNU, https://smkx.cqnu.edu.cn/], Chongqing Normal University^[CQNU, https://www.cqnu.edu.cn/], P. R. China. 
-
-<img src="images/Chapter-00/幻灯片24.jpg" width="100%" style="display: block; margin: auto;" />
 
 ## What can you learn? {-}
 

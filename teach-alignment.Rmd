@@ -612,18 +612,6 @@ knitr::include_graphics("images/Chapter-03/幻灯片146.jpg")
 knitr::include_graphics("images/Chapter-03/幻灯片147.jpg")
 ```
 
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-03/幻灯片148.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-03/幻灯片149.jpg")
-```
-
-```{r, out.width = "100%", fig.align='center', echo= FALSE}
-knitr::include_graphics("images/Chapter-03/幻灯片150.jpg")
-```
-
 ## Some cases
 
 ## Alignment in R

@@ -6,24 +6,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 6 Gene expression analysis | Bioinformatics</title>
   <meta name="description" content="A work-in-progress" />
-  <meta name="generator" content="bookdown 0.29 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.40 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 6 Gene expression analysis | Bioinformatics" />
   <meta property="og:type" content="book" />
-  <meta property="og:image" content="http://www.ciblab.net/bioinformatics/images/logo/logo-bioinformatics.png" />
+  <meta property="og:image" content="https://gzliang.cqu.edu.cn/images/logo/logo-bioinformatics.png" />
   <meta property="og:description" content="A work-in-progress" />
-  <meta name="github-repo" content="libcell/CQNUBioinformatics" />
+  <meta name="github-repo" content="xxxxxx" />
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Chapter 6 Gene expression analysis | Bioinformatics" />
   
   <meta name="twitter:description" content="A work-in-progress" />
-  <meta name="twitter:image" content="http://www.ciblab.net/bioinformatics/images/logo/logo-bioinformatics.png" />
+  <meta name="twitter:image" content="https://gzliang.cqu.edu.cn/images/logo/logo-bioinformatics.png" />
 
-<meta name="author" content="Bo Li, Ph. D" />
+<meta name="author" content="Guizhao Liang, Prof." />
 
 
-<meta name="date" content="2022-11-13" />
+<meta name="date" content="2024-10-16" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -55,6 +55,10 @@
 
 
 
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
 
 <link rel="stylesheet" href="assets/style.css" type="text/css" />
 </head>
@@ -79,7 +83,6 @@
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#tasks-and-arrangements"><i class="fa fa-check"></i>Tasks and arrangements</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#academic-assessment"><i class="fa fa-check"></i>Academic assessment</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#features-of-the-course"><i class="fa fa-check"></i>Features of the course</a></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#about-the-instructor"><i class="fa fa-check"></i>About the instructor</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#what-can-you-learn"><i class="fa fa-check"></i>What can you learn?</a></li>
 </ul></li>
 <li class="part"><span><b>Main chapters</b></span></li>
@@ -172,7 +175,7 @@
 <li class="chapter" data-level="" data-path="download.html"><a href="download.html#download-housework"><i class="fa fa-check"></i>Download housework</a></li>
 </ul></li>
 <li class="divider"></li>
-<li><a href="https://github.com/libcell/CQNUBioinformatics" target="blank">Published with bookdown</a></li>
+<li><a href="#" target="blank">Published with bookdown</a></li>
 
 </ul>
 
@@ -206,118 +209,118 @@
 <div id="gene-expression-analysis" class="section level1 hasAnchor" number="6">
 <h1><span class="header-section-number">Chapter 6</span> Gene expression analysis<a href="gene-expression-analysis.html#gene-expression-analysis" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <center>
-<img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%871.JPG" style="width:70.0%" />
+<img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%871.jpg" style="width:70.0%" />
 </center>
 <p>In this chapter, we mainly introduce the <strong>sequence analysis</strong> of biological molecules (such as DNA or protein), which includes promoter identification, gene prediction, codon usage analysis, trans-membrane analysis, and so on.</p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%872.JPG" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%872.jpg" width="100%" style="display: block; margin: auto;" /></p>
 <div id="introduction-3" class="section level2 hasAnchor" number="6.1">
 <h2><span class="header-section-number">6.1</span> Introduction<a href="gene-expression-analysis.html#introduction-3" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%873.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%874.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%875.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%876.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%877.JPG" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%873.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%874.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%875.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%876.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%877.jpg" width="100%" style="display: block; margin: auto;" /></p>
 <ul>
 <li>RNA-seq technique</li>
 </ul>
 <iframe src="https://player.bilibili.com/player.html?aid=902518557&amp;bvid=BV1DP4y127a9&amp;cid=889036497&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" align="center" height="420px" width="720px">
 </iframe>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%878.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%879.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8710.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8711.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8712.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8713.JPG" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%878.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%879.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8710.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8711.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8712.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8713.jpg" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 <div id="measurement-platforms" class="section level2 hasAnchor" number="6.2">
 <h2><span class="header-section-number">6.2</span> Measurement platforms<a href="gene-expression-analysis.html#measurement-platforms" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8714.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8715.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8716.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8717.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8718.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8719.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8720.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8721.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8722.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8723.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8724.JPG" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8714.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8715.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8716.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8717.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8718.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8719.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8720.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8721.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8722.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8723.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8724.jpg" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 <div id="dna-microarray" class="section level2 hasAnchor" number="6.3">
 <h2><span class="header-section-number">6.3</span> DNA microarray<a href="gene-expression-analysis.html#dna-microarray" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8725.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8726.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8727.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8728.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8729.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8730.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8731.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8732.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8733.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8734.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8735.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8736.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8737.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8738.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8739.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8740.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8741.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8742.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8743.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8744.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8745.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8746.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8747.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8748.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8749.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8750.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8751.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8752.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8753.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8754.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8755.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8756.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8757.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8758.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8759.JPG" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8725.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8726.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8727.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8728.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8729.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8730.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8731.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8732.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8733.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8734.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8735.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8736.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8737.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8738.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8739.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8740.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8741.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8742.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8743.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8744.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8745.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8746.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8747.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8748.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8749.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8750.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8751.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8752.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8753.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8754.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8755.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8756.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8757.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8758.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8759.jpg" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 <div id="deg-analysis" class="section level2 hasAnchor" number="6.4">
 <h2><span class="header-section-number">6.4</span> DEG analysis<a href="gene-expression-analysis.html#deg-analysis" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8760.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8761.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8762.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8763.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8764.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8765.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8766.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8767.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8768.JPG" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8760.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8761.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8762.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8763.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8764.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8765.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8766.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8767.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8768.jpg" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 <div id="clustering-analysis" class="section level2 hasAnchor" number="6.5">
 <h2><span class="header-section-number">6.5</span> Clustering analysis<a href="gene-expression-analysis.html#clustering-analysis" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8769.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8770.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8771.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8772.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8773.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8774.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8775.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8776.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8777.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8778.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8779.JPG" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8769.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8770.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8771.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8772.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8773.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8774.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8775.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8776.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8777.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8778.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8779.jpg" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 <div id="classification-analysis" class="section level2 hasAnchor" number="6.6">
 <h2><span class="header-section-number">6.6</span> Classification analysis<a href="gene-expression-analysis.html#classification-analysis" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8780.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8781.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8782.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8783.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8784.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8785.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8786.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8787.JPG" width="100%" style="display: block; margin: auto;" /></p>
-<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8788.JPG" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8780.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8781.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8782.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8783.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8784.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8785.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8786.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8787.jpg" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="images/Chapter-06/%E5%B9%BB%E7%81%AF%E7%89%8788.jpg" width="100%" style="display: block; margin: auto;" /></p>
 
 </div>
 </div>
@@ -367,7 +370,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/libcell/CQNUBioinformatics/edit/master/teach-expression.Rmd",
+"link": "https://github.com/xxxxxx/CQNUBioinformatics/edit/master/teach-expression.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -378,7 +381,7 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": ["https://github.com/libcell/CQNUBioinformatics/raw/master/teach-expression.Rmd"],
+"download": ["https://github.com/xxxxxx/CQNUBioinformatics/raw/master/teach-expression.Rmd"],
 "search": {
 "engine": "fuse",
 "options": null
